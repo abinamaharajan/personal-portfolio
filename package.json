@@ -1,0 +1,22 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts":{
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abinamaharajan/personal-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abinamaharajan/personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/abinamaharajan/personal-portfolio#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
